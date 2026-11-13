@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/raw/*
+data/processed/*
+outputs/
+!data/raw/.gitkeep
+.ipynb_checkpoints/
+outputs_wrds/
